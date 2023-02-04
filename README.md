@@ -1,2 +1,3 @@
-# basic-weather-app
-A basic weather web application.
+# Basic Weather App
+
+A basic weather web application. Users can request the weather for any location that they input.
